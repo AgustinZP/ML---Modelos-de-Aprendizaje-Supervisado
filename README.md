@@ -21,6 +21,20 @@ Este repositorio contiene diferentes ejercicios prácticos desarrollados como pa
 - Evaluación con métricas de precisión, recall, F1-score y curva ROC.
 - Aplicación a datasets con variables binarias.
 
+### 🔹 K‑Nearest Neighbors (KNN)
+
+- Clasificación del dataset Iris usando KNeighborsClassifier.
+
+- Estandarización de características con StandardScaler.
+
+- Evaluación con precisión, tasa de error y matriz de confusión.
+
+- Visualización de la matriz de confusión con ConfusionMatrixDisplay.
+
+- Validación cruzada (cross_val_score) para verificar la generalización.
+
+- Análisis del efecto del parámetro k sobre el rendimiento.
+
 ---
 
 ## 🛠️ Tecnologías utilizadas
